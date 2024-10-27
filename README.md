@@ -6,6 +6,7 @@
 
 ## Requirements
 | OS | requirements | 
+|---------|----------|
 | windows | java 17+ |
 | Linux x pterodactyl | none |
 | Ubuntu/Debian | - java 17+ <br> - curl
