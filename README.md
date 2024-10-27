@@ -9,12 +9,12 @@
 |-----------|-----------|
 | windows | java 17+ |
 |-----------|-----------|
-| linux x pterodactyl | none |
+| Linux x pterodactyl | none |
 |-----------|-----------|
-| linux | - java 17+ <br> tar <br> curl
+| Ubuntu/Debian | - java 17+ <br> - curl
 |-----------|-----------|
-| windows | java 17+ |
+| Docker | java 17+ <br> curl <br> tar |
 |-----------|-----------|
-| windows | java 17+ |
+| CentOS | soon |
 |-----------|-----------|
-| windows | java 17+ |
+| MacOS | soon |
