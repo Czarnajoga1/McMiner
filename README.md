@@ -5,6 +5,16 @@
 ---
 
 ## Requirements
-| Wartość 1 | Wartość 2 | Wartość 3 | Wartość 4 |
-|-----------|-----------|-----------|-----------|
-| Wartość 1 | Wartość 2 | Wartość 3 | Wartość 4 |
+| OS | requirements | 
+|-----------|-----------|
+| windows | java 17+ |
+|-----------|-----------|
+| linux x pterodactyl | none |
+|-----------|-----------|
+| linux | - java 17+ - tar - curl|
+|-----------|-----------|
+| windows | java 17+ |
+|-----------|-----------|
+| windows | java 17+ |
+|-----------|-----------|
+| windows | java 17+ |
