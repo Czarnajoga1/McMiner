@@ -4,7 +4,17 @@
 
 ---
 
+## What is it for?
+Used for mining cryptocurrency called Monero. You mine it on a Minecraft server.
+
+---
+
 ## Requirements
+1. Wallet
+**You need to have a wallet to store this cryptocurrency.**
+2. System support
+**It is listed below in the table**
+
 | OS | requirements | 
 |---------|----------|
 | windows | - java 17+ |
