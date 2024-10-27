@@ -13,3 +13,8 @@
 | Docker | - java 17+ <br> - curl <br> - tar |
 | CentOS | soon |
 | MacOS | soon |
+
+---
+
+## HOW TO DOWNLOAD
+
