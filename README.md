@@ -17,7 +17,7 @@ Used for mining cryptocurrency called Monero. You mine it on a Minecraft server.
 
 | OS | requirements | 
 |---------|----------|
-| windows | - java 17+ |
+| Windows | - java 17+ |
 | Ubuntu/Debian | - java 17+ <br> - curl
 | CentOS | soon |
 | MacOS | soon |
