@@ -12,8 +12,8 @@
 | linux x pterodactyl | none |
 |-----------|-----------|
 | linux | - java 17+
-          - tar
-          - curl |
+|          - tar
+|          - curl |
 |-----------|-----------|
 | windows | java 17+ |
 |-----------|-----------|
